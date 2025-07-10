@@ -87,3 +87,9 @@ The dataset captures daily advertising performance metrics for the year 2019, co
 
 ## ✅ Conclusion
 By combining statistical hypothesis testing, exploratory analysis, and machine learning models, this project empowers marketers to make data-backed decisions for optimizing advertising strategies. The insights clearly show Facebook as the preferred platform for higher conversions and better cost-efficiency, helping guide future campaign planning and execution.
+
+Project By - Shivsharan Malage
+
+[Github](https://github.com/Shivmalge)
+
+[Linkedin](https://www.linkedin.com/in/shivsharan-malage-99802a230/)
