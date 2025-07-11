@@ -38,8 +38,16 @@ The dataset captures daily advertising performance metrics for the year 2019, co
 
 ### 2. Exploratory Data Analysis (EDA)
 - Trend Analysis: Visualized distributions of clicks and conversions using histograms. Facebook consistently showed higher conversion rates.
+<img width="990" height="427" alt="Campaign" src="https://github.com/user-attachments/assets/d7a91159-e54a-4760-8f28-3358f4a3a579" />
+<img width="999" height="432" alt="AdwordsCampaign" src="https://github.com/user-attachments/assets/d9e7b254-51e3-4436-9fe9-7a111ab4caab" />
+
 - Categorical Insights: Grouped conversion rates into ranges, highlighting Facebook’s dominance in high-conversion days.
+<img width="870" height="385" alt="Categorical" src="https://github.com/user-attachments/assets/4e3761ee-25ac-4a2f-82dd-1c5bd940689c" />
+
 - Correlation Study: Found a strong correlation (0.87) between clicks and conversions on Facebook, versus a moderate correlation (0.45) for AdWords.
+<img width="551" height="405" alt="FB_Heatmap" src="https://github.com/user-attachments/assets/01791477-a1d4-433e-adfd-36fb0794311e" />
+<img width="547" height="426" alt="AdWords_Heatmap" src="https://github.com/user-attachments/assets/75104ca7-556f-4fd1-a990-cdf6a7c0a6ab" />
+
 
 ### 3. Statistical Hypothesis Testing
 - Hypothesis: Facebook ads lead to significantly more conversions than AdWords.
@@ -58,14 +66,22 @@ The dataset captures daily advertising performance metrics for the year 2019, co
 - Example Predictions:
   - 50 clicks → ~10 conversions
   - 80 clicks → ~16 conversions
+<img width="994" height="412" alt="regression" src="https://github.com/user-attachments/assets/c37dd098-ac2f-407d-aa7c-a0befca7bd48" />
+
 
 ### 5. Time-Based Insights
 - Weekly Patterns: Mondays and Tuesdays had the highest conversions.
+<img width="682" height="447" alt="weekly conversions" src="https://github.com/user-attachments/assets/4904acf2-c1eb-44d2-ace4-592030a47583" />
+
 - Monthly Insights: Conversion dips were observed in February and May; November saw peak performance.
+<img width="681" height="446" alt="monthly conversions" src="https://github.com/user-attachments/assets/fbb4842b-850d-47dd-8859-a081fbba0f44" />
+
 
 ### 6. Cost Efficiency Analysis
 - Analyzed monthly Cost Per Conversion (CPC).
 - Identified May and November as months with the lowest CPC—ideal periods for ad spend.
+<img width="687" height="450" alt="CostPerConnversion" src="https://github.com/user-attachments/assets/755dcb66-7070-4ba8-9b5c-e16be374f4f1" />
+
 
 ### 7. Cointegration Analysis
 - Conducted cointegration testing between ad spend and conversions.
