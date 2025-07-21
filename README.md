@@ -7,7 +7,7 @@ Applied hypothesis testing and regression modeling to assess and optimize the pe
 This project investigates and compares the performance of Facebook and AdWords advertising platforms throughout 2019. The objective is to identify the platform that delivers superior results in terms of clicks, conversions, and cost-efficiency—ultimately helping to improve ROI and drive smarter marketing decisions.
 
 ## ❓ Problem Statement
-As a data-driven marketing agency, improving the return on investment (ROI) for advertising campaigns is a key priority. By analyzing campaign data from both Facebook and AdWords, the goal was to pinpoint the better-performing platform and optimize future ad spending accordingly.
+As a data-driven marketing agency, improving the Return On Investment (ROI) for advertising campaigns is a key priority. By analyzing campaign data from both Facebook and AdWords, the goal was to pinpoint the better-performing platform and optimize future ad spending accordingly.
 #### Key Question:
 ➡️ Which advertising platform delivers higher conversions, better engagement, and improved cost-efficiency?
 
